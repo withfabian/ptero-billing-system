@@ -1,2 +1,5 @@
-# ptero-billing-system
-Pterodactyl Billing System With Time Used Javascript
+# Pterodactyl Billing System 
+
+Pterodactyl Billing System With Javascript Backend
+
+Coming Soon
